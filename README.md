@@ -11,23 +11,23 @@ Python - это мощный, но в то же время простой для
 Мы предлагаем вам познакомиться с основами Python через серию видеоуроков и материалов. Наш курс охватывает следующие темы:
 
 1. **Введение в Python**
-   - Зачем изучать Python
-   - Установка Python и настройка рабочего окружения
+   - [Зачем изучать Python](https://www.careerist.com/ru-insights/pochemu-python-pyat-veskih-prichin-nachat-izuchat-ego-segodnya)
+   - [Установка Python и настройка рабочего окружения](https://docs.python.org/3/using/mac.html)
    - [Первая программа на Python](https://easy-quest.github.io/web/Python/01_%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B5_%D1%88%D0%B0%D0%B3%D0%B8_%D0%B2_Python/1/#_5)
 
 2. **Основы языка**
-   - Переменные и типы данных
-   - Управляющие конструкции: условия и циклы
+   - [Переменные и типы данных](https://metanit.com/python/tutorial/2.2.php)
+   - [Управляющие конструкции: условия и циклы](https://docs.python.org/3/tutorial/controlflow.html)
    - [Функции и модули](https://docs.python.org/3/tutorial/modules.html)
 
 3. **Работа с данными**
-   - Списки, кортежи и словари
-   - Работа с файлами
+   - [Списки, кортежи и словари](https://python-scripts.com/lists-tuples-dictionaries)
+   - [Работа с файлами](https://pythonru.com/osnovy/fajly-v-python-vvod-vyvod)
    - [Основы работы с библиотекой Pandas](https://alex-podrabinovich.medium.com/%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-pandas-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1-%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-34f47d6a3714)
 
 4. **Проекты и практика**
-   - Создание простых приложений
-   - Разработка веб-сайта на Flask
+   - [Создание простых приложений](https://www.youtube.com/watch?v=usN5ToXdKfg&ab_channel=%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5l%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%D0%B8%D0%B3%D1%80%2C%D1%81%D0%B0%D0%B9%D1%82%D0%BE%D0%B2%D0%B8%D1%82.%D0%B4.)
+   - [Разработка веб-сайта на Flask](https://proglib.io/p/samouchitel-po-python-dlya-nachinayushchih-chast-23-osnovy-veb-razrabotki-na-flask-2023-06-27)
    - [Анализ данных](https://blog.skillfactory.ru/kak-nachat-analizirovat-dannye-v-pandas-pervye-shagi/)
 
 ## Обучающие материалы
